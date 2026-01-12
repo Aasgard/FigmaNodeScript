@@ -1,0 +1,21 @@
+{
+  "name": "figma-pod-node-script",
+  "version": "1.0.0",
+  "description": "Script Node.js pour récupérer les variables locales de Figma",
+  "main": "FigmaVariablesFetcher.js",
+  "type": "module",
+  "scripts": {
+    "start": "node FigmaVariablesFetcher.js"
+  },
+  "keywords": [
+    "figma",
+    "api",
+    "variables"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}

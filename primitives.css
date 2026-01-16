@@ -1,0 +1,48 @@
+/* Collection: _Primitives */
+/* Generated on: 2026-01-14T12:28:51.828Z */
+
+:root {
+  --color-black-15: #fafafa;
+  --color-black-25: #f7f7f7;
+  --color-black-50: #eeeeee;
+  --color-black-75: #e6e6e6;
+  --color-black-100: #dedede;
+  --color-black-200: #bebebe;
+  --color-black-300: #9e9e9e;
+  --color-black-400: #808080;
+  --color-black-500: #636363;
+  --color-black-600: #484848;
+  --color-black-700: #2e2e2e;
+  --color-black-800: #161616;
+  --color-black-900: #030303;
+  --color-red-50: #ffe9e6;
+  --color-red-100: #ffd1cd;
+  --color-red-200: #ffa099;
+  --color-red-300: #fd6562;
+  --color-red-400: #d94344;
+  --color-red-500: #b61b27;
+  --color-red-600: #8a0014;
+  --color-red-700: #5c000a;
+  --color-red-800: #320003;
+  --color-red-900: #0d0000;
+  --color-green-50: #c7ffd2;
+  --color-green-100: #77ff9d;
+  --color-green-200: #00e36d;
+  --color-green-300: #00be5a;
+  --color-green-400: #009a48;
+  --color-green-500: #007836;
+  --color-green-600: #005726;
+  --color-green-700: #003916;
+  --color-green-800: #001d08;
+  --color-green-900: #000501;
+  --color-white: #ffffff;
+  --font-letter-spacing-tight: -0.02500000037252903px;
+  --color-black: #000000;
+  --font-weight-light: 300;
+  --font-letter-spacing-normal: 0px;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+}
+
